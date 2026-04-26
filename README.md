@@ -7,6 +7,7 @@ Sistema para gestionar estadísticas de jugadores de fútbol.
 - Mostrar todos los jugadores
 - Buscar por apellido
 - Editar y borrar jugadores
+- Estadisticas Adicionales: Tabla de goleadores-Mayor goleador-cantidad de jugadores por posición
 
 ## Integrantes
 - Cappuccio, Rocio Antonella
